@@ -1,6 +1,6 @@
 # Stealth Amazon Comprehend
 
-This gem provides NLP via the [AWS Comprehend](https://aws.amazon.com/comprehend/) service. It integrates with the Stealth Controller to provide NLP against `current_message`.
+This gem provides NLP via the [AWS Comprehend](https://aws.amazon.com/comprehend/) service. It integrates with the [Stealth](https://github.com/hellostealth/stealth) Controller to provide NLP against `current_message`.
 
 ## Setup
 
