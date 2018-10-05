@@ -61,7 +61,7 @@ GEM
     minitest (5.11.3)
     multi_json (1.13.1)
     mustermann (1.0.3)
-    nokogiri (1.8.4)
+    nokogiri (1.8.5)
       mini_portile2 (~> 2.3.0)
     puma (3.12.0)
     rack (2.0.5)
