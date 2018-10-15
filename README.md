@@ -2,6 +2,8 @@
 
 This gem provides NLP via the [AWS Comprehend](https://aws.amazon.com/comprehend/) service. It integrates with the [Stealth](https://github.com/hellostealth/stealth) Controller to provide NLP against `current_message`.
 
+[![Gem Version](https://badge.fury.io/rb/stealth-aws-comprehend.svg)](https://badge.fury.io/rb/stealth-aws-comprehend)
+
 ## Setup
 
 To use AWS Comprehend, set the `AWS_ACCESS_KEY_ID` and `AWS_SECRET_ACCESS_KEY` environment variables to your AWS account credentials. You may also want to optionally set your preferred AWS region by setting the environment variable `AWS_REGION`. That's the only setup required!
