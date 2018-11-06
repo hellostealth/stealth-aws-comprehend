@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'stealth-aws-comprehend'
-  s.version     = '0.9.2'
+  s.version     = '0.9.3'
   s.summary     = "Stealth AWS Comprehend"
   s.description = "Built-in NLP for Stealth bots via AWS Comprehend."
   s.authors     = ["Mauricio Gomes"]
