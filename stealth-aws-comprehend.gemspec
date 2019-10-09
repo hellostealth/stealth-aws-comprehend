@@ -12,6 +12,6 @@ Gem::Specification.new do |s|
   s.add_dependency 'stealth', '< 2.0'
   s.add_dependency 'aws-sdk-comprehend', '~> 1.0'
 
-  s.add_development_dependency "rspec", "= 3.8.0"
+  s.add_development_dependency "rspec", "= 3.9.0"
 
 end
